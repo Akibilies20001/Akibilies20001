@@ -89,7 +89,7 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
 
   <tr>
   <td align="center" width="33%">
-    <img src="screenshots/Food_Recipe/Splash_screen.png" width="220" alt="Splash Screen"/><br/>
+    <img src="screenshots/Food_Recipe/Spash_screen.png" width="220" alt="Splash Screen"/><br/>
     <sub>Splash Screen</sub>
   </td>
   <td align="center" width="33%">
