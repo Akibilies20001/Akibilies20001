@@ -88,11 +88,15 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
   </tr>
 
   <tr>
-    <td align="center" colspan="3">
-      <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="220" alt="No Internet Error"/><br/>
-      <sub>No Internet Error</sub>
-    </td>
-  </tr>
+  <td align="center" width="33%">
+    <img src="screenshots/Food_Recipe/Splash_screen.png" width="220" alt="Splash Screen"/><br/>
+    <sub>Splash Screen</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="220" alt="No Internet Error"/><br/>
+    <sub>No Internet Error</sub>
+  </td>
+</tr>
 </table>
 ---
 
