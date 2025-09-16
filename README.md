@@ -54,21 +54,31 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
 **Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, RoomDB  
 
 **Screenshots:**  
+**Screenshots:**  
+
 <p align="center">
-  <img src="screenshots/Food_Recipe/Onboarding_Screen.png" width="30%" />
-  <img src="screenshots/Food_Recipe/Search_Screen.png" width="30%" />
-  <img src="screenshots/Food_Recipe/Categorized_Screen.png" width="30%" />
+  <img src="screenshots/Food_Recipe/Onboarding_Screen.png" width="25%" /><br/>
+  <sub>Onboarding Screen</sub>
+  <img src="screenshots/Food_Recipe/Meal_Categories.png" width="25%" /><br/>
+  <sub>Meal Categories</sub>
+  <img src="screenshots/Food_Recipe/Categorized_Screen.png" width="25%" /><br/>
+  <sub>Categorized Recipes</sub>
 </p>
 
 <p align="center">
-  <img src="screenshots/Food_Recipe/Meal_Categories.png" width="30%" />
-  <img src="screenshots/Food_Recipe/Detail_Screen.png" width="30%" />
-  <img src="screenshots/Food_Recipe/Bookmark_Screen.png" width="30%" />
+ <img src="screenshots/Food_Recipe/Search_Screen.png" width="25%" /><br/>
+  <sub>Search Screen</sub>
+  <img src="screenshots/Food_Recipe/Detail_Screen.png" width="25%" /><br/>
+  <sub>Recipe Detail</sub>
+  <img src="screenshots/Food_Recipe/Bookmark_Screen.png" width="25%" /><br/>
+  <sub>Bookmarked Recipes</sub>
 </p>
 
 <p align="center">
-  <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="30%" />
+  <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="25%" /><br/>
+  <sub>No Internet Error</sub>
 </p>
+
 ---
 
 ### 📺 Notice Board TV App  
