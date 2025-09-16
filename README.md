@@ -38,8 +38,14 @@ This project helped me learn **industry practices** such as Clean Architecture, 
  
 **Screenshots:**
 
+**Screenshots:**  
+
 <table align="center">
   <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Splash Screen.png" width="220" alt="Splash Screen"/><br/>
+      <sub>Splash Screen</sub>
+    </td>
     <td align="center" width="33%">
       <img src="screenshots/News_App/Onboarding Screen.png" width="220" alt="Onboarding Screen"/><br/>
       <sub>Onboarding Screen</sub>
@@ -48,13 +54,13 @@ This project helped me learn **industry practices** such as Clean Architecture, 
       <img src="screenshots/News_App/Home Screen.png" width="220" alt="Home Screen"/><br/>
       <sub>Home Screen</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="33%">
       <img src="screenshots/News_App/Search Screen.png" width="220" alt="Search Screen"/><br/>
       <sub>Search Screen</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="33%">
       <img src="screenshots/News_App/Details Screen.png" width="220" alt="Details Screen"/><br/>
       <sub>Details Screen</sub>
@@ -63,19 +69,16 @@ This project helped me learn **industry practices** such as Clean Architecture, 
       <img src="screenshots/News_App/External App call.png" width="220" alt="External App Call"/><br/>
       <sub>External App Call</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Shimmer Effect.png" width="220" alt="Shimmer Effect"/><br/>
-      <sub>Shimmer Effect</sub>
-    </td>
   </tr>
 
   <tr>
     <td align="center" colspan="3">
-      <img src="screenshots/News_App/Splash Screen.png" width="260" alt="Splash Screen"/><br/>
-      <sub>Splash Screen</sub>
+      <img src="screenshots/News_App/Shimmer Effect.png" width="260" alt="Shimmer Effect"/><br/>
+      <sub>Shimmer Effect</sub>
     </td>
   </tr>
 </table>
+
 
 
 ---
