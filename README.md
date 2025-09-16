@@ -53,32 +53,47 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
 
 **Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, RoomDB  
 
-**Screenshots:**  
-**Screenshots:**  
+**Screenshots:**    
 
-<p align="center">
-  <img src="screenshots/Food_Recipe/Onboarding_Screen.png" width="25%" /><br/>
-  <sub>Onboarding Screen</sub>
-  <img src="screenshots/Food_Recipe/Meal_Categories.png" width="25%" /><br/>
-  <sub>Meal Categories</sub>
-  <img src="screenshots/Food_Recipe/Categorized_Screen.png" width="25%" /><br/>
-  <sub>Categorized Recipes</sub>
-</p>
 
-<p align="center">
- <img src="screenshots/Food_Recipe/Search_Screen.png" width="25%" /><br/>
-  <sub>Search Screen</sub>
-  <img src="screenshots/Food_Recipe/Detail_Screen.png" width="25%" /><br/>
-  <sub>Recipe Detail</sub>
-  <img src="screenshots/Food_Recipe/Bookmark_Screen.png" width="25%" /><br/>
-  <sub>Bookmarked Recipes</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Onboarding_Screen.png" width="220" alt="Onboarding Screen"/><br/>
+      <sub>Onboarding Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Meal_Categories.png" width="220" alt="Meal Categories"/><br/>
+      <sub>Meal Categories</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Categorized_Screen.png" width="220" alt="Categorized Recipes"/><br/>
+      <sub>Categorized Recipes</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="25%" /><br/>
-  <sub>No Internet Error</sub>
-</p>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Search_Screen.png" width="220" alt="Search Screen"/><br/>
+      <sub>Search Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Detail_Screen.png" width="220" alt="Recipe Detail"/><br/>
+      <sub>Recipe Detail</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Food_Recipe/Bookmark_Screen.png" width="220" alt="Bookmarked Recipes"/><br/>
+      <sub>Bookmarked Recipes</sub>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" colspan="3">
+      <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="220" alt="No Internet Error"/><br/>
+      <sub>No Internet Error</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📺 Notice Board TV App  
