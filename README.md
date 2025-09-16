@@ -143,15 +143,14 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
 ### 📺 Notice Board TV App  
 **Description:**  
 An Android TV app built with **WebView** to render a university notice board website on large displays. Includes a **kiosk mode** for uninterrupted viewing in public spaces.  
-🔗 [GitHub Repository](https://github.com/Akibilies20001/Notice_Board_DIU)  
+🔗 [GitHub Repository](https://github.com/Akibilies20001/Notice_Board_DIU_Kiosk)  
 
 **Motivation:**  
-This project was my first attempt at solving a **real-world problem**: displaying content seamlessly on big screens. It gave me practical experience with **Java and XML UI development**, while exploring how Android behaves on **non-mobile devices like TVs**.  
+This was my first attempt at solving a **real-world problem** delivering notices seamlessly on large displays. It gave me hands-on experience with Android OS security.
 
-**Tools Used:** Java, XML, WebView  
+**Tools Used:** Kotlin, XML, WebView  
 
-**Screenshots:**  
-![Notice Board Home](screenshots/notice_home.png)  
+
 
 ---
 
