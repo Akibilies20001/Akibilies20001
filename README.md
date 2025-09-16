@@ -54,10 +54,21 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
 **Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, RoomDB  
 
 **Screenshots:**  
-![Splash Screen](screenshots/recipe_splash.png)  
-![Recipe List](screenshots/recipe_list.png)  
-![Recipe Detail](screenshots/recipe_detail.png)  
+<p align="center">
+  <img src="screenshots/Food_Recipe/Onboarding_Screen.png" width="30%" />
+  <img src="screenshots/Food_Recipe/Search_Screen.png" width="30%" />
+  <img src="screenshots/Food_Recipe/Categorized_Screen.png" width="30%" />
+</p>
 
+<p align="center">
+  <img src="screenshots/Food_Recipe/Meal_Categories.png" width="30%" />
+  <img src="screenshots/Food_Recipe/Detail_Screen.png" width="30%" />
+  <img src="screenshots/Food_Recipe/Bookmark_Screen.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Food_Recipe/No_Internet_Error.png" width="30%" />
+</p>
 ---
 
 ### 📺 Notice Board TV App  
