@@ -36,7 +36,6 @@ This project helped me learn **industry practices** such as Clean Architecture, 
 **Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, Paging 3, RoomDB  
 
  
-**Screenshots:**
 
 **Screenshots:**  
 
