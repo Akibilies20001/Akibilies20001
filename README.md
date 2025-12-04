@@ -2,6 +2,10 @@
 
 I am an aspiring **Android developer** actively building projects to strengthen my skills in mobile development.  
 I’ve applied **Jetpack Compose, Kotlin, Dagger Hilt, Retrofit, and RoomDB** in my apps, and I’m currently focused on gaining more confidence in independent development through real-world practice.  
+---
+## 📫 Contact  
+- 📧 Email: [merajhossen20001@gmail.com](mailto:merajhossen20001@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/meraj-hossen-akib-005486291](https://www.linkedin.com/in/meraj-hossen-akib-005486291/)  
 
 
 ---
@@ -159,9 +163,5 @@ This was my first attempt at solving a **real-world problem** delivering notices
 
 ---
 
-## 📫 Contact  
-- 📧 Email: [merajhossen20001@gmail.com](mailto:merajhossen20001@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/meraj-hossen-akib-005486291](https://www.linkedin.com/in/meraj-hossen-akib-005486291/)  
 
----
 
