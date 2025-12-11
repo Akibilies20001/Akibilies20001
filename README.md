@@ -29,6 +29,72 @@ I’ve applied **Jetpack Compose, Kotlin, Dagger Hilt, Retrofit, and RoomDB** in
 
 ---
 
+
+### 💬 Chat App (Pokor Pokor)
+
+**Description:**  
+A fully custom chat application that I am building from scratch, without following any tutorials. It includes user authentication, people search (by name or email), chat list, real-time chat rooms, and message synchronization—designed using Clean Architecture and MVVM principles.
+🔗 [GitHub Repository](https://github.com/Akibilies20001/Pokor_Pokor)
+
+**Motivation:**  
+This project represents my transition from guided learning to **independent, real-world problem solving**.  
+Unlike tutorial projects, this chat app forces me to deal with **unpredictable, real engineering challenges**—such as handling Firestore sync, avoiding recomposition loops in Compose, designing scalable data models, fixing navigation edge cases, and implementing WorkManager correctly.  
+Solving these issues has strengthened my architectural understanding and given me confidence to build full apps independently.
+
+**Tools Used:** Jetpack Compose, Kotlin, Dagger Hilt, Firebase Auth, Firestore, WorkManager  
+
+**Future Work**
+- Implement Profile Feature
+- Implement Sending Image
+- Implement Single Source of Truth using RoomDB
+
+
+
+**Screenshots:**  
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/Splash Screen.png" width="220" alt="Splash Screen"/><br/>
+      <sub>Splash Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/LoginScreen_Dark.png" width="220" alt="Login Screen-Dark"/><br/>
+      <sub>Onboarding Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/Signup Screen_Light.png" width="220" alt="Signup Screen-Light"/><br/>
+      <sub>Home Screen</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/ChatList_Light.png" width="220" alt="ChatList-Light"/><br/>
+      <sub>Search Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/Search Screen_Dark.png" width="220" alt="Search Screen-Dark"/><br/>
+      <sub>Details Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Chat_App/Search Screen_Light.png" width="220" alt="Search Screen-Light"/><br/>
+      <sub>External App Call</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="3">
+      <img src="screenshots/Chat_App/Chatroom_Light.png" width="260" alt="Chatroom-Light"/><br/>
+      <sub>Shimmer Effect</sub>
+    </td>
+   <td align="center" width="33%">
+      <img src="screenshots/Chat_App/Chatroom_Dark.png" width="220" alt="Chatroom-Dark"/><br/>
+      <sub>External App Call</sub>
+    </td>
+  </tr>
+</table>
+
 ### 📰 News App  
 **Description:**  
 An Android app with a splash screen, onboarding flow, API-based news fetching, search functionality, and detailed article views.  
