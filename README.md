@@ -84,7 +84,7 @@ Solving these issues has strengthened my architectural understanding and given m
   </tr>
 
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
       <img src="screenshots/Chat_App/Chatroom_Light.png" width="260" alt="Chatroom-Light"/><br/>
       <sub>Shimmer Effect</sub>
     </td>
