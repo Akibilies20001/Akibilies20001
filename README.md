@@ -23,9 +23,11 @@ I’ve applied **Jetpack Compose, Kotlin, Dagger Hilt, Retrofit, and RoomDB** in
 ## 📂 Projects  
 
 ### 🔎 Highlights
-- 📰 **News App** – Learned industry practices (Clean Architecture, MVVM, modern Android tools)  
-- 🍲 **Food Recipe App** – Solo project to solidify knowledge and add bookmarking with RoomDB  
-- 📺 **Notice Board TV App** – Real-world problem solving with kiosk mode for large displays  
+- 💬 **Pokor Pokor (Chat App)** – Learned Firebase-driven real-time flows with controlled fetching using Paging 3, handled structural design choices, and resolved several unexpected bugs. *(In Progress)*
+- 🍲 **Food Recipe App** – Solo project to solidify knowledge and add bookmarking with RoomDB
+- 📰 **News App** – Learned industry practices (Clean Architecture, MVVM, modern Android tools)
+- 📺 **Notice Board TV App** – Real-world problem solving with kiosk mode for large displays
+
 
 ---
 
@@ -85,7 +87,7 @@ Solving these issues has strengthened my architectural understanding and given m
 
   <tr>
     <td align="center" width="33%">
-      <img src="screenshots/Chat_App/Chatroom_Light.png" width="260" alt="Chatroom-Light"/><br/>
+      <img src="screenshots/Chat_App/Chatroom_Light.png" width="220" alt="Chatroom-Light"/><br/>
       <sub>Shimmer Effect</sub>
     </td>
    <td align="center" width="33%">
@@ -95,58 +97,6 @@ Solving these issues has strengthened my architectural understanding and given m
   </tr>
 </table>
 
-### 📰 News App  
-**Description:**  
-An Android app with a splash screen, onboarding flow, API-based news fetching, search functionality, and detailed article views.  
-🔗 [GitHub Repository](https://github.com/Akibilies20001/News_App)  
-
-**Motivation:**  
-This project helped me learn **industry practices** such as Clean Architecture, MVVM, and dependency injection. I built it by following a structured tutorial by **[ Land of coding on YouTube](https://www.youtube.com/playlist?list=PLzZEuVaFb9Exi-pc8qtHBrrLg8bUn-TP6)**, which introduced me to **Clean Architecture, Paging 3, Retrofit, and Dagger Hilt**, giving me my first exposure to advanced Android development standards.  
-
-**Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, Paging 3, RoomDB  
-
- 
-
-**Screenshots:**  
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Splash Screen.png" width="220" alt="Splash Screen"/><br/>
-      <sub>Splash Screen</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Onboarding Screen.png" width="220" alt="Onboarding Screen"/><br/>
-      <sub>Onboarding Screen</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Home Screen.png" width="220" alt="Home Screen"/><br/>
-      <sub>Home Screen</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Search Screen.png" width="220" alt="Search Screen"/><br/>
-      <sub>Search Screen</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/Details Screen.png" width="220" alt="Details Screen"/><br/>
-      <sub>Details Screen</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/News_App/External App call.png" width="220" alt="External App Call"/><br/>
-      <sub>External App Call</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="3">
-      <img src="screenshots/News_App/Shimmer Effect.png" width="260" alt="Shimmer Effect"/><br/>
-      <sub>Shimmer Effect</sub>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -207,6 +157,64 @@ This was my **first solo project** to solidify knowledge gained from tutorials. 
   </td>
 </tr>
 </table>
+---
+
+
+
+### 📰 News App  
+**Description:**  
+An Android app with a splash screen, onboarding flow, API-based news fetching, search functionality, and detailed article views.  
+🔗 [GitHub Repository](https://github.com/Akibilies20001/News_App)  
+
+**Motivation:**  
+This project helped me learn **industry practices** such as Clean Architecture, MVVM, and dependency injection. I built it by following a structured tutorial by **[ Land of coding on YouTube](https://www.youtube.com/playlist?list=PLzZEuVaFb9Exi-pc8qtHBrrLg8bUn-TP6)**, which introduced me to **Clean Architecture, Paging 3, Retrofit, and Dagger Hilt**, giving me my first exposure to advanced Android development standards.  
+
+**Tools Used:** Jetpack Compose, Kotlin, Retrofit, Dagger Hilt, Paging 3, RoomDB  
+
+ 
+
+**Screenshots:**  
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Splash Screen.png" width="220" alt="Splash Screen"/><br/>
+      <sub>Splash Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Onboarding Screen.png" width="220" alt="Onboarding Screen"/><br/>
+      <sub>Onboarding Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Home Screen.png" width="220" alt="Home Screen"/><br/>
+      <sub>Home Screen</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Search Screen.png" width="220" alt="Search Screen"/><br/>
+      <sub>Search Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/Details Screen.png" width="220" alt="Details Screen"/><br/>
+      <sub>Details Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/News_App/External App call.png" width="220" alt="External App Call"/><br/>
+      <sub>External App Call</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="3">
+      <img src="screenshots/News_App/Shimmer Effect.png" width="260" alt="Shimmer Effect"/><br/>
+      <sub>Shimmer Effect</sub>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ### 📺 Notice Board TV App  
