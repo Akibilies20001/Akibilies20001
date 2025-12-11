@@ -35,13 +35,17 @@ I’ve applied **Jetpack Compose, Kotlin, Dagger Hilt, Retrofit, and RoomDB** in
 ### 💬 Chat App (Pokor Pokor)
 
 **Description:**  
-A fully custom chat application that I am building from scratch, without following any tutorials. It includes user authentication, people search (by name or email), chat list, real-time chat rooms, and message synchronization—designed using Clean Architecture and MVVM principles.
+An independently developed chat application for Android that includes essential features like user authentication, people search (by name or email), a dynamically updated chat list, and functioning real-time chat rooms with message synchronization.
 🔗 [GitHub Repository](https://github.com/Akibilies20001/Pokor_Pokor)
 
 **Motivation:**  
-This project represents my transition from guided learning to **independent, real-world problem solving**.  
-Unlike tutorial projects, this chat app forces me to deal with **unpredictable, real engineering challenges**—such as handling Firestore sync, avoiding recomposition loops in Compose, designing scalable data models, fixing navigation edge cases, and implementing WorkManager correctly.  
-Solving these issues has strengthened my architectural understanding and given me confidence to build full apps independently.
+-Leaving the Comfort Zone: I stepped away from the safety of tutorials to build something complex from scratch, specifically to challenge myself with the unpredictable problems that real development brings.
+
+-Learning Through Struggle: The biggest lessons came from the friction—debugging specific, unguided issues like that tricky keyboard input bug or getting Firestore sync right taught me more than any course could.
+
+-Connecting the Dots: It wasn't just about writing code, but structural puzzle-solving; figuring out how to fit pieces like WorkManager into Clean Architecture really solidified my grasp on design patterns.
+
+-Gaining Real Confidence: Ultimately, solving these unexpected roadblocks on my own proved to me that I can do more than follow instructions—I can engineer and finish a robust app independently.
 
 **Tools Used:** Jetpack Compose, Kotlin, Dagger Hilt, Firebase Auth, Firestore, WorkManager  
 
@@ -62,37 +66,37 @@ Solving these issues has strengthened my architectural understanding and given m
     </td>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/LoginScreen_Dark.png" width="220" alt="Login Screen-Dark"/><br/>
-      <sub>Onboarding Screen</sub>
+      <sub>Login Screen-Dark</sub>
     </td>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/Signup Screen_Light.png" width="220" alt="Signup Screen-Light"/><br/>
-      <sub>Home Screen</sub>
+      <sub>Signup Screen-Light</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/ChatList_Light.png" width="220" alt="ChatList-Light"/><br/>
-      <sub>Search Screen</sub>
+      <sub>ChatList-Light</sub>
     </td>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/Search Screen_Dark.png" width="220" alt="Search Screen-Dark"/><br/>
-      <sub>Details Screen</sub>
+      <sub>Search Screen-Dark</sub>
     </td>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/Search Screen_Light.png" width="220" alt="Search Screen-Light"/><br/>
-      <sub>External App Call</sub>
+      <sub>Search Screen-Light</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
       <img src="screenshots/Chat_App/Chatroom_Light.png" width="220" alt="Chatroom-Light"/><br/>
-      <sub>Shimmer Effect</sub>
+      <sub>Chatroom-Light</sub>
     </td>
    <td align="center" width="33%">
       <img src="screenshots/Chat_App/Chatroom_Dark.png" width="220" alt="Chatroom-Dark"/><br/>
-      <sub>External App Call</sub>
+      <sub>Chatroom-Dark</sub>
     </td>
   </tr>
 </table>
